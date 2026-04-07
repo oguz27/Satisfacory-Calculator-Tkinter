@@ -1,0 +1,11 @@
+Copper Sheet, Constructor, 10, Copper Ingot, 20
+Reinforced Iron Plates, Assembler, 5, Iron Plates, 30, Screws, 60
+Copper Ingot, Smelter, 30, Copper Ore, 30 
+Iron Plates, Constructor, 20, Iron Ingot, 30
+Screws, Constructor, 40, Iron Rod, 10
+Modular Frame, Assembler, 2, Reinforced Iron Plates, 3, Iron Rod, 12
+Iron Rod, Constructor, 15, Iron Ingot, 15
+Copper Ore, Miner, 60
+Iron Ore, Miner, 60
+Limestone, Miner, 60
+Coal, Miner, 60

@@ -1,0 +1,8 @@
+Copper Sheet = assets\CopperSheet.png
+Copper Ingot = assets\CopperIngot.png
+Reinforced Iron Plates = assets\ReinforcedIronPlates.png
+Iron Plates = assets\IronPlates.png
+Screws = assets\Screws.png
+Modular Frame = assets\ModularFrame.png
+Iron Rod = assets\IronRod.png
+Copper Ore = assets\CopperOre.png
